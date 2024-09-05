@@ -161,6 +161,12 @@ main {
     justify-content: center;
 }
 
+
+/* Gallery Page 
+#photos img {
+    width: 100%;
+} */
+
 /* Footer */
 #social-networks {
     text-align: center;
